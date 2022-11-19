@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-19 22:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: app/templates/index.html:22 app/views.py:20
+msgid "Abrir"
+msgstr "Open"
+
+#: app/templates/index.html:25 app/views.py:17
+msgid "Crear"
+msgstr "Create"
+
+#: app/templates/index.html:28 app/views.py:18
+msgid "Guardar"
+msgstr "Save"
+
+#: app/templates/index.html:31 app/views.py:19
+msgid "Ejecutar"
+msgstr "Run"
+
+#: app/templates/index.html:65 app/views.py:21
+msgid "Variables"
+msgstr "Variables"
+
+#: app/templates/index.html:68 app/views.py:22
+msgid "Condicionales"
+msgstr "Conditionals"
+
+#: app/templates/index.html:71 app/views.py:23
+msgid "Ciclos"
+msgstr "Cycles"
+
+#: app/templates/index.html:74 app/views.py:24
+msgid "Funciones"
+msgstr "Functions"
+
+#: app/templates/index.html:79 app/views.py:25
+msgid "Sintaxis"
+msgstr "Syntax"
+
+#: app/views.py:16
+msgid "Idiomas"
+msgstr "Languages"
+
+#: interprete/settings.py:123
+msgid "Inglés"
+msgstr "English"
+
+#: interprete/settings.py:124
+msgid "Español"
+msgstr "Spanish"
+
+#: interprete/settings.py:125
+msgid "Japonés"
+msgstr "Japanese"
+
+#: interprete/settings.py:126
+msgid "Portugués"
+msgstr "Portuguese"
+
+#: interprete/settings.py:127
+msgid "Italiano"
+msgstr "Italian"
+
+#: interprete/urls.py:22
+msgid "admin/"
+msgstr ""
